@@ -10,3 +10,6 @@ Users can add, delete, and manage daily tasks easily.
 •	Mark tasks as completed
 
 •	Delete tasks
+
+## 🔗 Live Demo
+[👉 Click here to use To Do List App](https://chitsunyein242.github.io/To-Do-List-Js/)
